@@ -41,8 +41,6 @@ public class VolumeExporterEditor : ModuleRules
 				"InputCore",
 				"UnrealEd",
 				"ToolMenus",
-				"CoreUObject",
-				"Engine",
 				"Slate",
 				"SlateCore",
                 "Blutility",
